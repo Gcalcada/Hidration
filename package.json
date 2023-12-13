@@ -9,6 +9,7 @@
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
     "@react-navigation/stack": "^6.3.20",
+    "chatterbot": "^1.0.0",
     "date-fns": "^2.30.0",
     "expo": "^49.0.21",
     "expo-constants": "~14.4.2",
@@ -16,15 +17,18 @@
     "expo-font": "~11.4.0",
     "expo-notifications": "~0.20.1",
     "expo-permissions": "~14.2.1",
+    "intelligo": "^1.3.0",
     "metro": "^0.80.1",
     "metro-core": "0.80.1",
     "react": "^18.2.0",
     "react-native": "0.72.6",
     "react-native-device-info": "^10.12.0",
     "react-native-gesture-handler": "~2.12.0",
+    "react-native-gifted-chat": "^2.4.0",
     "react-native-reanimated": "~3.3.0",
     "react-native-safe-area-context": "4.6.3",
-    "react-native-screens": "~3.22.0"
+    "react-native-screens": "~3.22.0",
+    "react-simple-chatbot": "^0.6.1"
   },
   "scripts": {
     "start": "expo start",
